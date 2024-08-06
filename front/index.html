@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="index.js" defer></script>
+    <title>MemoTest</title>
+</head>
+
+<body>
+    <main>
+        <section class="seccion3">
+            <form id="registroJugador">
+                <input type="text" id="nombre" placeholder="Nombre" required>
+                <input type="text" id="apellido" placeholder="Apellido" required>
+                <input type="email" id="email" placeholder="Email" required>
+                <button type="submit" class="iniciar">Comenzar Juego</button>
+                <br>
+                <button type="button" class="iniciar" onclick="window.location.href='posiciones.html'">Ver Posiciones</button>
+            </form>
+        </section>
+        
+        <section class="seccion1">
+            <div class="tituloImagen">
+                <img src="imagenes/memoPotter.png" alt="Memo Test">
+            </div>
+            <div id="tablero" class="tablero"></div>
+        </section>
+        
+        <section class="seccion2">
+            <div class="pajaro">
+                <img src="imagenes/pajaro.png" alt="Pajaro">
+            </div>
+            <h2 id="aciertos" class="estadisticas">Aciertos: </h2>
+            <h2 id="tiempo" class="estadisticas">Tiempo:</h2>
+            <h2 id="movimientos" class="estadisticas">Movimientos: </h2>
+            <button type="submit" id="reiniciar" class="reiniciar" onclick="reiniciarJuego()">Volver a jugar <span id="jugadorNombre"></span></button>
+        </section>
+
+    </main>
+    <footer>
+        <p>Juego realizado por <a href="https://www.linkedin.com/in/nkaminski-profile/">Nicolas Kaminski</a></p>
+    </footer>
+</body>
+
+</html>

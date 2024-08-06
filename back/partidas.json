@@ -1,0 +1,106 @@
+[
+  {
+    "nombre": "Abuelo",
+    "apellido": "Mago",
+    "email": "noescucho@mimail.com",
+    "movimientos": 32,
+    "tiempo": 80,
+    "aciertos": 15
+  },
+  {
+    "nombre": "Harry",
+    "apellido": "Potter",
+    "email": "hg@gmail.com",
+    "movimientos": 33,
+    "tiempo": 90,
+    "aciertos": 15
+  },
+  {
+    "nombre": "Otra",
+    "apellido": "Prueba",
+    "email": "op@mail.com",
+    "movimientos": 35,
+    "tiempo": 84,
+    "aciertos": 15
+  },
+  {
+    "nombre": "Nico",
+    "apellido": "Soy Yo",
+    "email": "mimail@gmail.com",
+    "movimientos": 35,
+    "tiempo": 89,
+    "aciertos": 15
+  },
+  {
+    "nombre": "Otra",
+    "apellido": "Prueba",
+    "email": "op@gmail.com",
+    "movimientos": 35,
+    "tiempo": 106,
+    "aciertos": 15
+  },
+  {
+    "nombre": "Hermione",
+    "apellido": "Granger",
+    "email": "hg@gmail",
+    "movimientos": 35,
+    "tiempo": 117,
+    "aciertos": 15
+  },
+  {
+    "nombre": "Prueba",
+    "apellido": "Prueba",
+    "email": "prueba@gmail.com",
+    "movimientos": 36,
+    "tiempo": 91,
+    "aciertos": 15
+  },
+  {
+    "nombre": "Ron",
+    "apellido": "Weasley",
+    "email": "rw@gmail.com",
+    "movimientos": 39,
+    "tiempo": 291,
+    "aciertos": 15
+  },
+  {
+    "nombre": "Luna",
+    "apellido": "Lovegood",
+    "email": "ll@gemail.com",
+    "movimientos": 40,
+    "tiempo": 137,
+    "aciertos": 15
+  },
+  {
+    "nombre": "Minerva",
+    "apellido": "McGonagall",
+    "email": "mg@gmail.com",
+    "movimientos": 43,
+    "tiempo": 114,
+    "aciertos": 15
+  },
+  {
+    "nombre": "Nico",
+    "apellido": "Soy Yo",
+    "email": "murek38@gmail.com",
+    "movimientos": 46,
+    "tiempo": 127,
+    "aciertos": 15
+  },
+  {
+    "nombre": "Prueba",
+    "apellido": "Prueba",
+    "email": "prueba@gmail.com",
+    "movimientos": 61,
+    "tiempo": 151,
+    "aciertos": 15
+  },
+  {
+    "nombre": "Dobby",
+    "apellido": "Dobby",
+    "email": "ddmago@gmail.com",
+    "movimientos": 40,
+    "tiempo": 126,
+    "aciertos": 15
+  }
+]
